@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset
+UrbanSound8K/
+UrbanSound8K.tar.gz
+
+# Generated experiment outputs
+final_results_table.csv
+yamnet_source_test_predictions.csv
+cnn_salience_test_predictions.csv
+
+# TensorFlow / model artefacts
+*.h5
+*.keras
+*.ckpt
+checkpoint/
+logs/

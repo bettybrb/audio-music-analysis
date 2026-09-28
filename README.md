@@ -105,3 +105,7 @@ audio-music-analysis/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+
+## Tech
+
+**Python · TensorFlow · Keras · TensorFlow Hub · YAMNet · librosa · scikit-learn · NumPy · pandas · Matplotlib · audio signal processing · mel spectrograms · convolutional neural networks · transfer learning · logistic regression · classification · error analysis**
